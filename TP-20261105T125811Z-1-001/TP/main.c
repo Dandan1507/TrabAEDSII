@@ -21,19 +21,19 @@ int menu(){
 
     printf("\nDigite 1 para utilizar a base de dados funcionario de teste.");
     printf("\nDigite 2 se desejar imprimir a base de dados funcionario.");
-    printf("\nDigite 3 se desejar imprimir o índice primário da base de funcionarios.");
+    printf("\nDigite 3 se desejar imprimir o indice primario da base de funcionarios.");
 
 
-    printf("\n\nINTERPOLAÇÃO\n");
-    printf("\nDigite 4 para utilizar a estrutura de interpolação teste.");
-    printf("\nDigite 5, 6  para gerar particões ordenadas utilizando, respectivamente, os métodos: classificação interna ou seleção natural.");
-    printf("\nDigite 7 para criar uma pilha com o conteúdo das partições geradas.");
-    printf("\nDigite 8, 9 para gerar intercalar as partições ordenadas utilizando, respectivamente, os métodos: intercalação basico, intercalacao arvore de vencedores.");
+    printf("\n\nINTERPOLACAO\n");
+    printf("\nDigite 4 para utilizar a estrutura de interpolacao teste.");
+    printf("\nDigite 5, 6  para gerar particoes ordenadas utilizando, respectivamente, os metodos: classificacao interna ou selecao natural.");
+    printf("\nDigite 7 para criar uma pilha com o conteudo das particoes geradas.");
+    printf("\nDigite 8, 9 para gerar intercalar as particoes ordenadas utilizando, respectivamente, os metodos: intercalacao basica, intercalacao arvore de vencedores.");
 
-    printf("\n\nINSERTION SORT E ÁRVORE BINÁRIA, ARVORE B\n");
-    printf("\nDigite 10 para criar árvores binárias em memória interna e externa.");
+    printf("\n\nINSERTION SORT E ARVORE BINARIA, ARVORE B\n");
+    printf("\nDigite 10 para criar árvores binarias em memoria interna e externa.");
     printf("\nDigite 11 para ordenar a base de dados utilizando o método insertion sort em disco. ");
-    printf("\nDigite 12 para criar Árvore B+ de prefixo simples. ");
+    printf("\nDigite 12 para criar Arvore B+ de prefixo simples. ");
 
 
     printf("\nDigite -1 para sair: ");
